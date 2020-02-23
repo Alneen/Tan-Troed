@@ -1,6 +1,6 @@
 baseurl = "https://alneen.github.io/Tan-Troed/"
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "Alneenium"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""

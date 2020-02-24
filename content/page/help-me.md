@@ -5,3 +5,7 @@ draft: false
 ---
 
 Help is on it's way.
+
+[https://computer.howstuffworks.com/internet/basics/rss2.htm](https://computer.howstuffworks.com/internet/basics/rss2.htm)
+
+[]()
